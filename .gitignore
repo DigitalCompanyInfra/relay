@@ -1,2 +1,4 @@
 /.idea
 tmp
+config.bat
+node_modules
